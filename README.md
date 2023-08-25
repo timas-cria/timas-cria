@@ -1,6 +1,6 @@
 <h1 align="center">Hello, i'm Timóteo</h1>
 <h3 align="center">A back and frontend developer from Brazil</h3>
-<img align="center" alt="technologies" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif">
+<img align="right" alt="technologies" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif">
 
 - ✨ I’m currently working on [Leather Hat](https://github.com/timas-cria/leather-hat-project)
 
